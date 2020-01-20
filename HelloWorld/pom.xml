@@ -21,7 +21,7 @@
     <agentPort>8079</agentPort>
     <truststorePassword></truststorePassword>
     <agentAuth></agentAuth>
-    <agentHost>13.233.148.1</agentHost>
+    <agentHost>pthakare-t470</agentHost>
     <httpPort>8225</httpPort>
     <appNode>Dev_AppNode</appNode>
     <osgiPort>8228</osgiPort>
